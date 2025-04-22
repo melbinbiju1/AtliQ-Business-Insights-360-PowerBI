@@ -1,4 +1,4 @@
-# **Business Insights 360 – Power BI** 📊
+# **AtliQ Business Insights 360 – Power BI** 📊
 
 ---
 
