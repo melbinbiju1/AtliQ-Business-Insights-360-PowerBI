@@ -80,7 +80,7 @@ Before diving into the project, key questions were addressed to align stakeholde
 ## **Data Exploration & Modeling** 🔍
 
 ### **Understanding the Data**:
-The project used multiple datasets from AtliQ’s MySQL database. Key tables included:
+The project used multiple datasets from Execl/CSV files and MySQL database. Key tables included:
 
 - **Dimension Tables**: Customer, Market, Product, etc.
 - **Fact Tables**: Sales, Forecasts, Freight Costs, etc.
