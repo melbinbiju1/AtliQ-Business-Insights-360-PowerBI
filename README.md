@@ -121,7 +121,7 @@ By leveraging the dashboards, stakeholders can now make data-driven decisions ac
 ## **Explore the Full Report** 🖥️
 
 You can find the complete Power BI report here:  
-🔗 [Download Full Power BI Report](https://app.powerbi.com/links/VjTUR-B7MN?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
+🔗 [Download Full Power BI Report](https://drive.google.com/file/d/1ezVaRo6ZWHCf2EPF5YiD2AF0RixN-az3/view?usp=sharing)
 
 ---
 
