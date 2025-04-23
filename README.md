@@ -92,13 +92,17 @@ The data was structured using a **Snowflake Model** for optimized performance an
 ## **Dashboard Views** 👀
 
 - **Home View**: Central navigation page linking to all major dashboards.
-- ![Home View](https://github.com/melbinbiju1/AtliQ-Business-Insights-360-PowerBI/blob/main/Resources/Home-View.png)
-- **Info Page**: General details and important KPIs.
+![Home View](https://github.com/melbinbiju1/AtliQ-Business-Insights-360-PowerBI/blob/main/Resources/Home-View.png)
 - **Finance View**: Financial performance, including profit margins and sales by region.
+![Finance View](https://github.com/melbinbiju1/AtliQ-Business-Insights-360-PowerBI/blob/main/Resources/Finance-View.png)
 - **Sales View**: Monthly sales trends and forecasts.
+![Sales View](https://github.com/melbinbiju1/AtliQ-Business-Insights-360-PowerBI/blob/main/Resources/Sales-View.png)
 - **Marketing View**: Campaign performance, customer reach, and ROI.
+![Marketing View](https://github.com/melbinbiju1/AtliQ-Business-Insights-360-PowerBI/blob/main/Resources/Marketing-View.png)
 - **Supply Chain View**: Stock levels, lead times, and logistics efficiency.
+![Supply Chain View](https://github.com/melbinbiju1/AtliQ-Business-Insights-360-PowerBI/blob/main/Resources/Supply-Chain-View.png)
 - **Executive View**: High-level KPIs and trends for leadership decision-making.
+![Executive View](https://github.com/melbinbiju1/AtliQ-Business-Insights-360-PowerBI/blob/main/Resources/Executive-View.png)
 
 ---
 
