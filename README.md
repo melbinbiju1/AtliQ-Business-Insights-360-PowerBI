@@ -80,7 +80,7 @@ Before diving into the project, key questions were addressed to align stakeholde
 ## **Data Exploration & Modeling** 🔍
 
 ### **Understanding the Data**:
-The project used multiple datasets from Execl/CSV files and MySQL database. Key tables included:
+The project used multiple datasets from MySQL database and Execl/CSV files. Key tables included:
 
 - **Dimension Tables**: Customer, Market, Product, etc.
 - **Fact Tables**: Sales, Forecasts, Freight Costs, etc.
@@ -95,11 +95,11 @@ The data was structured using a **Snowflake Model** for optimized performance an
 ![Home View](https://github.com/melbinbiju1/AtliQ-Business-Insights-360-PowerBI/blob/main/Resources/Home-View.png)
 - **Finance View**: Financial performance, including profit margins and sales by region.
 ![Finance View](https://github.com/melbinbiju1/AtliQ-Business-Insights-360-PowerBI/blob/main/Resources/Finance-View.png)
-- **Sales View**: Monthly sales trends and forecasts.
+- **Sales View**: Sales trends and forecasts.
 ![Sales View](https://github.com/melbinbiju1/AtliQ-Business-Insights-360-PowerBI/blob/main/Resources/Sales-View.png)
-- **Marketing View**: Campaign performance, customer reach, and ROI.
+- **Marketing View**: Customer and product performance, and profit generated.
 ![Marketing View](https://github.com/melbinbiju1/AtliQ-Business-Insights-360-PowerBI/blob/main/Resources/Marketing-View.png)
-- **Supply Chain View**: Stock levels, lead times, and logistics efficiency.
+- **Supply Chain View**: Stock levels, forecast accuracy, and logistics efficiency.
 ![Supply Chain View](https://github.com/melbinbiju1/AtliQ-Business-Insights-360-PowerBI/blob/main/Resources/Supply-Chain-View.png)
 - **Executive View**: High-level KPIs and trends for leadership decision-making.
 ![Executive View](https://github.com/melbinbiju1/AtliQ-Business-Insights-360-PowerBI/blob/main/Resources/Executive-View.png)
