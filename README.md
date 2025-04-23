@@ -134,7 +134,7 @@ You can find the complete Power BI report here:
 
 Explore the live, interactive Power BI dashboard showcasing key business insights for AtliQ Hardware:
 
-🔗 [View Live Dashboard](https://app.powerbi.com/Redirect?action=OpenApp&appId=9954065c-0e28-443e-8798-a4c020999ba9&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&experience=power-bi)
+🔗 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTIzNTJhNTAtZDViNi00OGRiLWE1MDMtOTY5MDAwN2Q0ZjljIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
