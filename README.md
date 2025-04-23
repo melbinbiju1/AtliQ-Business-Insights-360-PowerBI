@@ -92,6 +92,7 @@ The data was structured using a **Snowflake Model** for optimized performance an
 ## **Dashboard Views** 👀
 
 - **Home View**: Central navigation page linking to all major dashboards.
+- ![Home View](https://github.com/melbinbiju1/AtliQ-Business-Insights-360-PowerBI/blob/main/Resources/Home-View.png)
 - **Info Page**: General details and important KPIs.
 - **Finance View**: Financial performance, including profit margins and sales by region.
 - **Sales View**: Monthly sales trends and forecasts.
