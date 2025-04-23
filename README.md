@@ -1,7 +1,5 @@
 # **AtliQ Business Insights 360 – Power BI** 📊
 
----
-
 ## **Project Overview** 🚀
 
 AtliQ Hardware, a fast-growing global retailer, embarked on building its **data analytics team** to stay competitive and make informed, data-driven decisions. The company decided to implement **Power BI** to surpass its competitors and gain insights into key business areas such as **finance**, **sales**, **marketing**, and **supply chain**.
@@ -115,7 +113,6 @@ By leveraging the dashboards, stakeholders can now make data-driven decisions ac
 
 ## **Additional Details** 📂
 
-- **GitHub LFS**: Managed large file uploads using **GitHub Large File Storage** for optimized repo performance.
 - **Data Sources**: MySQL database with tables for sales, products, freight costs, and more.
 - **Data Model**: Built on **Snowflake Schema** for efficient querying and reporting.
 
@@ -124,24 +121,12 @@ By leveraging the dashboards, stakeholders can now make data-driven decisions ac
 ## **Explore the Full Report** 🖥️
 
 You can find the complete Power BI report here:  
-🔗 [Download Full Power BI Report](#)
+🔗 [Download Full Power BI Report](https://app.powerbi.com/links/VjTUR-B7MN?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
 
 ---
 
-## **How to Run This Project** 🏃‍♂️
+## **Connect with Me** 💬
+Feel free to reach out with any questions or to connect further!
 
-1. Clone this repository.
-2. Open the `BusinessInsights360.pbix` file in Power BI Desktop.
-3. Import the dataset from MySQL or use the included sample data.
-4. Publish and interact with the report in Power BI Services.
-
----
-
-## **Let’s Connect!** 🤝
-
-Feel free to reach out for any inquiries or collaboration opportunities:
-
-📧 [Email Me](mailto:youremail@example.com)  
-🔗 [LinkedIn](#)
-
-If you found this project valuable, please consider starring the repo! ⭐
+- 📫 **Email**: [melbinbiju212330@gmail.com](mailto:melbinbiju212330@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/melbin-biju](https://www.linkedin.com/in/melbin-biju/)
