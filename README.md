@@ -118,7 +118,7 @@ By leveraging the dashboards, stakeholders can now make data-driven decisions ac
 
 ## **Additional Details** 📂
 
-- **Data Sources**: MySQL database with tables for sales, products, freight costs, and more.
+- **Data Sources**: Execl/CSV files and a MySQL database with tables for sales, products, freight costs, and more.
 - **Data Model**: Built on **Snowflake Schema** for efficient querying and reporting.
 
 ---
