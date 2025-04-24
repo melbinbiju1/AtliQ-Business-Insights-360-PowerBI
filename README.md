@@ -2,7 +2,7 @@
 
 ## **Project Overview** 🚀
 
-AtliQ Hardware, a fast-growing global retailer, embarked on building its **data analytics team** to stay competitive and make informed, data-driven decisions. The company decided to implement **Power BI** to surpass its competitors and gain insights into key business areas such as **finance**, **sales**, **marketing**, and **supply chain**.
+AtliQ Hardware, a fast-growing global consumer electronics manufacturer, embarked on building its **data analytics team** to stay competitive and make informed, data-driven decisions. The company decided to implement **Power BI** to surpass its competitors and gain insights into key business areas such as **finance**, **sales**, **marketing**, and **supply chain**.
 
 This project aims to provide stakeholders with actionable insights and answers to critical business questions. By creating interactive Power BI dashboards, the company is empowered to track sales trends, marketing effectiveness, product performance, and more.
 
@@ -57,12 +57,11 @@ This project aims to provide stakeholders with actionable insights and answers t
 
 ## **AtliQ Hardware: Company Background** 🌐
 
-**AtliQ Hardware** is a leading global retailer specializing in computer accessories and hardware through three main sales channels:
-- **Retailers** 🛍️
-- **Direct** 🔌
-- **Distributors** 🚚
+**AtliQ** is a global consumer electronics brand that supplies hardware and accessories to major retail and distribution partners (e.g., Amazon, Croma). It operates globally in regions like APAC, EU, LATAM, and North America, with a strong B2B focus and limited B2C presence.
 
-In recent years, the company expanded rapidly and faced challenges in managing its operations effectively, particularly in the American market. The company realized the importance of adopting a **data-driven culture** to analyze performance across all aspects of their operations and outpace their competitors.
+This project mimics how AtliQ uses analytics to improve operational efficiency, forecast sales, manage supply chains, and make strategic business decisions.
+
+In recent years, the company expanded rapidly and faced challenges in managing its operations effectively. The company realized the importance of adopting a **data-driven culture** to analyze performance across all aspects of their operations and outpace their competitors.
 
 ---
 
