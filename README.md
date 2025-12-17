@@ -133,12 +133,12 @@ You can find the complete Power BI report here:
 
 Explore the live, interactive Power BI dashboard showcasing key business insights for AtliQ Hardware:
 
-🔗 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTIzNTJhNTAtZDViNi00OGRiLWE1MDMtOTY5MDAwN2Q0ZjljIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+🔗 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzRmZjRmZTUtMTExMC00MjJiLTg2NTktOTI5YjBlNjVkNTY2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
 ## **Connect with Me** 💬
 Feel free to reach out with any questions or to connect further!
 
-- 📫 **Email**: [melbinbiju212330@gmail.com](mailto:melbinbiju212330@gmail.com)  
+- 📫 **Email**: [melbinbiju186@gmail.com](mailto:melbinbiju186@gmail.com)  
 - 🔗 **LinkedIn**: [linkedin.com/in/melbin-biju](https://www.linkedin.com/in/melbin-biju/)
